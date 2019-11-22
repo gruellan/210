@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fe2bd7a-3acf-4da8-a281-43e20b927eb2" name="Default Changelist" comment="" />
+    <list default="true" id="4fe2bd7a-3acf-4da8-a281-43e20b927eb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/Rubber_duck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/battlemapdesert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/bigfoot_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/bigfoot_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/bigfoot_zombie_front.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Tk2POIaTlzQeIscTdMDrzxIixp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -83,11 +95,22 @@
       <workItem from="1573989748965" duration="683000" />
       <workItem from="1574006006073" duration="1031000" />
       <workItem from="1574007619566" duration="1013000" />
-      <workItem from="1574156618333" duration="21621000" />
+      <workItem from="1574156618333" duration="21907000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
